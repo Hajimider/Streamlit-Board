@@ -1,4 +1,4 @@
-```markdown
+
 # 📊 销售数据分析看板
 
 基于 Streamlit + MySQL 的交互式销售数据可视化工具。
@@ -20,7 +20,7 @@
 
 ### 1. 安装依赖
 
-​```bash
+```bash
 pip install -r requirements.txt
 ```
 
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 执行 `recouse_data.sql` 创建表并生成模拟数据：
 
-```bash
+​```bash
 mysql -u root -p < recouse_data.sql
 ```
 
